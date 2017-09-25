@@ -1,4 +1,3 @@
-```
 function quickSort (arr, left, right) {
 	var mid,
 	    pivot;
@@ -37,4 +36,3 @@ function swap(arr, i, j) {
 }
 
 quickSort([11,8,14,3,6,2,1, 7],0,7);
-```
